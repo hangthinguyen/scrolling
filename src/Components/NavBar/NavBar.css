@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 2.2rem;
+  padding: 1rem;
+}
+
+.bar-btn {
+  border: none;
+  background-color: white;
+  font-size: 1.5rem;
+  background: transparent;
+}
+
+.bar-btn:hover {
+  cursor: pointer;
+}
